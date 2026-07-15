@@ -11,7 +11,7 @@ A full-stack online quiz platform built with **React**, **Node.js**, **Express**
 
 The platform supports timed quizzes, automatic timeout submission, score calculation, speed bonuses, answer review, quiz history, leaderboards, and administrator question management.
 
-[Live Demo](https://911413485-spec.github.io/online-quiz-platform/)
+[Live Demo](https://github.com/0226Yan/online-quiz-platform)
 
 ### Demo Login
 
